@@ -1,4 +1,4 @@
-package day2;
+package Day2;
 import java.util.*;
 public class count1 {
     static int c;

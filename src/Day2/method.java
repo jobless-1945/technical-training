@@ -1,4 +1,4 @@
-package day2;
+package Day2;
 public class method {
     int print(int a,int b){
         return a+b;

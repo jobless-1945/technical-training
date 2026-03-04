@@ -1,4 +1,4 @@
-package day2;
+package Day2;
 public class stics {
     static int c=0;
     int id;
