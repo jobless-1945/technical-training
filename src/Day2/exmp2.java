@@ -1,4 +1,4 @@
-package day2.acmod;
+package Day2;
 public class exmp2 {
     public static void main(String[] args) {
         exmp.a=60;

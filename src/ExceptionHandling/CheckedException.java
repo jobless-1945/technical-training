@@ -2,7 +2,7 @@ package ExceptionHandling;
 
 import java.io.IOException;
 /*
-java.io.IOException -> fully qualified class name
+java.io.IOException ->int fully qualified class name
 For checked exception we always use try-catch block
 the 'throw' keyword doesnt handle the exception
 It only passes on the information to the calling method

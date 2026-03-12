@@ -1,4 +1,4 @@
-package day2.acmod;
+package Day2;
 public class exmp {
     static int a;
     static int b;
